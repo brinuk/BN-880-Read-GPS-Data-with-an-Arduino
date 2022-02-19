@@ -13,3 +13,6 @@ Altitude, Height of geoid above WGS84 elipsoid.
 Each NMEA sentence is parity checked. 
 
 The library is simple to modify and well documented for adapting to your own purpose.
+
+![image](https://user-images.githubusercontent.com/13920701/154805987-efc40e0e-8372-4bd2-8a5b-3cf4110c9d99.png)
+

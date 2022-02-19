@@ -14,6 +14,9 @@ Each NMEA sentence is parity checked.
 
 The library is simple to modify and well documented for adapting to your own purpose.
 
+Example of output from Arduino.
+
+
 
 
 

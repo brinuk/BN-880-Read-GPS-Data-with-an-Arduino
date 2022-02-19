@@ -14,6 +14,7 @@ Each NMEA sentence is parity checked.
 
 The library is simple to modify and well documented for adapting to your own purpose.
 
-![image](https://user-images.githubusercontent.com/13920701/154806053-3b6f9353-2f6c-4dd3-9cc1-793c57adba94.png)
 
 
+
+![GPS](https://user-images.githubusercontent.com/13920701/154806626-d43615bd-d7a0-4e02-b24a-613234ac62bc.jpg)
